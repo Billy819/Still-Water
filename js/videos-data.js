@@ -88,6 +88,24 @@ const VIDEOS = {
     { id: "9D05ej8u-gU", title: "The Most Astounding Fact", speaker: "Neil deGrasse Tyson", note: "TIME Magazine"},
     { id: "CbIZU8cQWXc", title: "We Stopped Dreaming", speaker: "Neil deGrasse Tyson", note: ""},
     { id: "bAX27XRHMH8", title: "There's no such thing as MIRACLE", speaker: "Richard Feynman ", note: "Feynman Series"},
-    { id: "D24Oo0B5AN8", title: "Jack Ma Life Story (CEO of Alibaba)", speaker: "Jack Ma", note: "Goal Quest"}
+    { id: "D24Oo0B5AN8", title: "Jack Ma Life Story (CEO of Alibaba)", speaker: "Jack Ma", note: "Goal Quest"},
+    { id: "52lZmIafep4", title: "Self Worth Theory: The Key to Understanding & Overcoming Procrastination", speaker: "Nic Voge", note: "TEDxPrincetonU"},
+    { id: "gXDMoiEkyuQ", title: "Gratitude", speaker: "Louie Schwartzberg", note: "TEDxSF"},
+    { id: "LNHBMFCzznE", title: "After watching this, your brain will not be the same", speaker: "Lara Boyd", note: "TEDxVancouver"},
+    { id: "Hu4Yvq-g7_Y", title: "How to Get Your Brain to Focus ", speaker: "Chris Bailey", note: "TEDxManchester"},
+    { id: "xp0O2vi8DX4", title: "How to motivate yourself to change your behavior ", speaker: "Tali Sharot", note: "TEDxCambridge"},
+    { id: "GwRzjFQa_Og", title: "The Magic of Not Giving a F*** ", speaker: "Sarah Knight", note: "TEDxCoconutGrove"},
+    { id: "78nsxRxbf4w", title: "How to Be Happy Every Day: It Will Change the World", speaker: "Jacqueline Way", note: "TTEDxStanleyPark"},
+    { id: "wM82hE6oimw", title: "The Secret to Getting Anything You Want in Life", speaker: "Jen Cohen", note: "TEDxBuckhead"},
+    { id: "0tqq66zwa7g", title: "Change your mindset, change the game", speaker: "Dr. Alia Crum", note: "TEDxTraverseCity"},
+    { id: "V2PP3p4_4R8", title: "If you want to achieve your goals, don't focus on them", speaker: "Reggie Rivers", note: "TEDxCrestmoorParkED"},
+    { id: "AdKUJxjn-R8", title: "Forget big change, start with a tiny habit", speaker: "BJ Fogg", note: "TEDxFremont"},
+    { id: "_waBFUg_oT8", title: "Success, failure and the drive to keep creating", speaker: " Elizabeth Gilbert", note: "TEDxVancouver"},
+    { id: "kU1DI8HsYAg", title: "Rethinking failure", speaker: "Barbara Corcoran", note: "TEDxBarnardCollege"},
+    { id: "pwnWFNoe7Pw", title: "Failure is knowledge, knowledge is success", speaker: "Tim Gibson", note: " TEDxGriffithUniversity"},
+    { id: "mB3shCf2d70", title: "Doers, Dreamers, and the Differences Between Them", speaker: "Joshua York", note: "TEDxLivoniaCCLibraryy"},
+    { id: "Xmvpx1kIEBQ", title: "Own your mistakes", speaker: "Cristel Carrisi", note: "TEDxLivoniaCCLibraryy"},
+    { id: "H6n3iNh4XLI", title: "How to Have a Good Conversation", speaker: "Celeste Headlee", note: "TEDxCreativeCoast"},
+    { id: "NVPxmz_PvUw", title: "Learning to be awesome at anything you do, including being a leader", speaker: "Tasha Eurich", note: "TEDxCreativeCoast"}
   ]
 };
