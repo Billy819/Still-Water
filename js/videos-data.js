@@ -106,6 +106,7 @@ const VIDEOS = {
     { id: "mB3shCf2d70", title: "Doers, Dreamers, and the Differences Between Them", speaker: "Joshua York", note: "TEDxLivoniaCCLibraryy"},
     { id: "Xmvpx1kIEBQ", title: "Own your mistakes", speaker: "Cristel Carrisi", note: "TEDxLivoniaCCLibraryy"},
     { id: "H6n3iNh4XLI", title: "How to Have a Good Conversation", speaker: "Celeste Headlee", note: "TEDxCreativeCoast"},
-    { id: "NVPxmz_PvUw", title: "Learning to be awesome at anything you do, including being a leader", speaker: "Tasha Eurich", note: "TEDxCreativeCoast"}
+    { id: "NVPxmz_PvUw", title: "Learning to be awesome at anything you do, including being a leader", speaker: "Tasha Eurich", note: "TEDxMileHigh"},
+    { id: "lrQ5MJw3mss", title: "The energy of thought ", speaker: "Penny Zenke", note: "TEDxPSUBehrend"}
   ]
 };
